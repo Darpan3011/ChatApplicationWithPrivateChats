@@ -1,1 +1,0 @@
-WebSocket for messaging with spring security
